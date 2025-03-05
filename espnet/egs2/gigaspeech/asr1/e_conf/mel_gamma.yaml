@@ -1,0 +1,15 @@
+weights:
+  decoder_mel: 0.75
+  decoder_gamma: 0.65
+  ctc_mel: 0.35
+  ctc_gamma: 0.25
+  ngram: 0.0
+  length_bonus: 0.0
+
+beam_size: 5
+device: cpu
+num_workers: 6
+
+
+testing_sets:
+  - test_clean

@@ -1,0 +1,19 @@
+weights:
+  decoder_mel: 0.7
+  decoder_mfcc: 0.7
+  decoder_gamma: 0.7
+  decoder_cqt: 0.7
+  ctc_mel: 0.3
+  ctc_mfcc: 0.3
+  ctc_gamma: 0.3
+  ctc_cqt: 0.3
+  ngram: 0.0
+  length_bonus: 0.0
+
+beam_size: 7
+device: cpu
+num_workers: 6
+
+
+testing_sets:
+  - test_clean

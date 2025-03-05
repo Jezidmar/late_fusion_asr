@@ -1,0 +1,6 @@
+stats_files:
+  - stats/stats_mel.npz
+  - stats/stats_mfcc.npz
+  - stats/stats_gamma.npz
+  - stats/stats_cqt.npz
+  - stats/stats_bark.npz
