@@ -4,7 +4,7 @@
  Paper has been accepted to special session on Data Science: Foundations and Applications (DSFA) of conference PAKDD 2025.
 
 ## Experiments
-
+![Alt text](images/image.png)
 
 - Repo is built on top of `espnet` repository, so there shouldn't be many unknowns.
 
