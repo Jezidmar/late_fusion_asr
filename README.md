@@ -32,7 +32,7 @@
 
 
 ### Ensemble inference
-- Enter `/egs2/librispeech/asr1/e_conf` folder and find demo sample_config.yaml. You can set which models to use in ensemble, as per needs. Once you correctly place global stats, and models run ensemble decoding using command `./execute_decoding.sh --inference_nj 3 --inference_tag mel_gamma_bark_late_fusion --path_to_conf e_conf/mel_gamma_bark.yaml`
+- Enter `/egs2/librispeech/asr1/e_conf` folder and find demo sample_config.yaml. You can set which models to use in ensemble, as per needs. Once you correctly place global stats, and models, run ensemble decoding using command `./execute_decoding.sh --inference_nj 3 --inference_tag mel_gamma_bark_late_fusion --path_to_conf e_conf/mel_gamma_bark.yaml`
 
 
 ## Observations
