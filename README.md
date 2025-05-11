@@ -39,6 +39,19 @@
 - Enter `/egs2/aishell/asr1` and observe jupyter notebook `Diversity_clean.ipynb`. Results shouldn't be difficult to reproduce.
 
 
-## Contact
-- For any questions, feel free to contact me on mail address `marin.jezidzic323@gmail.com`
+## Citation
+- If you find this work helpful, please cite us
+
+
+@misc{jezidžić2024latefusionensemblesspeech,
+      title={Late fusion ensembles for speech recognition on diverse input audio representations}, 
+      author={Marin Jezidžić and Matej Mihelčić},
+      year={2024},
+      eprint={2412.01861},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2412.01861}, 
+}
+
+This repo is still improving. For any questions, please email marin.jezidzic323@gmail.com
 
