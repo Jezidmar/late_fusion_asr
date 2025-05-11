@@ -40,7 +40,7 @@
 
 
 ## Citation
-- If you find this work helpful, please cite us
+If you find this work helpful, cite us
 
 ```bash
 @misc{jezidžić2024latefusionensemblesspeech,
