@@ -42,8 +42,8 @@
 ## Citation
 - If you find this work helpful, please cite us
 
-
-`@misc{jezidžić2024latefusionensemblesspeech,
+```bash
+@misc{jezidžić2024latefusionensemblesspeech,
       title={Late fusion ensembles for speech recognition on diverse input audio representations}, 
       author={Marin Jezidžić and Matej Mihelčić},
       year={2024},
@@ -51,7 +51,8 @@
       archivePrefix={arXiv},
       primaryClass={eess.AS},
       url={https://arxiv.org/abs/2412.01861}, 
-}`
+}
+```bash
 
 This repo is still improving. For any questions, please email marin.jezidzic323@gmail.com
 
